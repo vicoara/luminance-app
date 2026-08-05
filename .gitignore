@@ -1,0 +1,25 @@
+# ─── Python (api/) ───────────────────────────────────────────────
+api/__pycache__/
+api/**/__pycache__/
+api/*.pyc
+api/.env
+api/venv/
+api/.venv/
+api/.uv/
+
+# ─── Node / Next.js (web/) ───────────────────────────────────────
+web/node_modules/
+web/.next/
+web/.env.local
+web/.env
+web/out/
+
+# ─── Editors y OS ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ─── Documentos internos ─────────────────────────────────────────
+plan-trabajo-extractor-paletas.md
