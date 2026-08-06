@@ -1,2 +1,7 @@
 fastapi
 uvicorn[standard]
+
+# Procesamiento de imagen (Fase 1)
+opencv-python-headless
+scikit-learn
+numpy
